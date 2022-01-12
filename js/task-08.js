@@ -28,4 +28,3 @@ function onFormSubmit(event) {
   form.reset();
 }
 
-//дддд
