@@ -1,6 +1,4 @@
 const form = document.querySelector('.login-form');
-// const emailInput = document.querySelector('[name="email"]');
-// const passwordInput = document.querySelector('[name="password"]');
 
 const formObj = {};
 
